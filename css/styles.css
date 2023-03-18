@@ -11,9 +11,10 @@ hr {
 }
 
 h1 {
-    color: #66bfbf
+    color: #66bfbf;
+    font-family: 'Merriweather', sans-serif;
 }
 
 h3 {
-    color: #66bfbf
+    color: #66bfbf;
 }
