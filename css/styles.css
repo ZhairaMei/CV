@@ -22,5 +22,7 @@ h3 {
 }
 
 .footer {
-    color:#66BFBF;   
+    color:#66BFBF;
+    font-family: 'Merriweather', sans-serif;
+    font-size: 5.652rem;
 }
